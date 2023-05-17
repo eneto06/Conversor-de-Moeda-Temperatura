@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "src"
+        "src",
+        "Conversor-de-Moeda-Temperatura"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
